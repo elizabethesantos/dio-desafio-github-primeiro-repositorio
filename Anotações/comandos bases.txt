@@ -1,0 +1,29 @@
+link do Git
+https://git-scm.com/
+
+Principais comandos no Git Bash
+
+  para iniciar um repositorio local
+
+   -git init
+  
+  Para adicionar uma alteração
+
+   -git add .
+
+  Para fazer um commit 
+   - git commit -m "msg"
+
+  Para ver o estado do projeto
+   -git status
+
+  Para adicionar o repositorio do github
+   -git remote add origin (url do repositório)
+
+  Para subir o repositorio local para o github
+   -git push origin master 
+
+  Para baixar atualizaçoes feita em outro local
+   -git pull origin master
+
+
